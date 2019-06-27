@@ -1,0 +1,10 @@
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\obj\Debug\TempCalculator.csprojAssemblyReference.cache
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\obj\Debug\TempCalculator.Form1.resources
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\obj\Debug\TempCalculator.Properties.Resources.resources
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\obj\Debug\TempCalculator.csproj.GenerateResource.cache
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\obj\Debug\TempCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\bin\Debug\TempCalculator.exe.config
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\bin\Debug\TempCalculator.exe
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\bin\Debug\TempCalculator.pdb
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\obj\Debug\TempCalculator.exe
+C:\Users\Admin\Source\repos\TempCalculator\TempCalculator\obj\Debug\TempCalculator.pdb
